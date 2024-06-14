@@ -1,12 +1,12 @@
 
+![:)](My-img8bit-com-Effect.png "icon-custom")
 
+===============
 # Blue Moon Society
 ## Game Repository
-![favicon](icon-custom.png "icon-custom")
-``
-Godot 4.2
-Synty Polygons Mixed
+===============
+``Godot 4.2``
+``Synty Polygons Mixed``
+===============
 
-``
-
-![:)](My-img8bit-com-Effect.png "icon-custom")
+![icon](icon-custom.png)
